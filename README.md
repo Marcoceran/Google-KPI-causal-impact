@@ -1,0 +1,2 @@
+# Google-KPI-causal-impact
+Only the first part of this homework has been executed, as part of the Advanced Digital Signal Processing Course at PoliMi. In the project the differential impact of an intervention in an advertisement campaign is evaluated against a control group. The post intervention KPI time series are compared to an estimate of the KPI time series without the intervention obtained as a weighted sum of the control group time series, the set of weights is obtained with simulated annealing algorithm.
